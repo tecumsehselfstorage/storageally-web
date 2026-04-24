@@ -1,6 +1,5 @@
 "use client";
 
-import "./globals.css";
 import { useState, useRef, useEffect } from "react";
 
 export default function StorageAllyLanding() {
